@@ -1,4 +1,4 @@
-#centered {
+.centered {
   text-align: center;
 }
 
@@ -6,15 +6,15 @@
   font-size: 3rem;
 }
 
-subtitle {
-  font-size: 1.5rem;
+#subtitle {
+  font-size: 1.5em;
 }
 
 .div {
   background-color: gray;
 }
 
-#li {
+li {
   list-style-type: none;
 }
 
@@ -23,7 +23,7 @@ subtitle {
   background: grey;
 }
 
-monospaced {
+.monospaced {
   font-family: monospace;
 }
 
